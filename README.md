@@ -1,6 +1,6 @@
 # The  *ROBÓTICO*  Arduino robot
 
-This project starts with my little child idea to create his own robot, called Robótico, by herself.
+This project starts with my little child idea to create her own robot, called Robótico, by herself.
 
 She has only 4 years at the momment (May, 2022), so daddy help her to accomplish the idea. 
 We use some different softwares for android, so you can use that you like.. The important thing is to configure the commands at the program.
